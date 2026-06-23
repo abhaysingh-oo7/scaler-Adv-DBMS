@@ -7,7 +7,7 @@
 | Name | Roll Number | Email |
 |---|---|---|
 | Abhay Singh Bhadauria | 24bcs10102 | abhay.24bcs10102@sst.scaler.com |
-| Aditya Sharma| `<YOUR_ROLL_NUMBER>` | `<your_email@scaler.com>` |
+| Aditya Sharma| 24BCS10176 | aditya.24bcs10176@sst.scaler.com  |
 ---
 
 ## 1. Project Overview
